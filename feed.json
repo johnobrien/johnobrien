@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Garage Adventures",
+    "description": "",
+    "home_page_url": "https://johnobrien.github.io/johnobrien",
+    "feed_url": "https://johnobrien.github.io/johnobrien/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "John O&#x27;Brien"
+    },
+    "items": [
+        {
+            "id": "https://johnobrien.github.io/johnobrien/hello-world.html",
+            "url": "https://johnobrien.github.io/johnobrien/hello-world.html",
+            "title": "Hello, World",
+            "summary": "This is a test.",
+            "content_html": "<p>This is a test.</p>",
+            "author": {
+                "name": "John O&#x27;Brien"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-04T20:48:07-04:00",
+            "date_modified": "2022-11-04T20:48:07-04:00"
+        }
+    ]
+}
