@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://johnobrien.github.io/johnobrien/attributions.html",
+            "url": "https://johnobrien.github.io/johnobrien/attributions.html",
+            "title": "Attributions",
+            "summary": "Attributions Garage icons created by Kiranshastry - Flaticon",
+            "content_html": "<h1>Attributions</h1>\n<p><a href=\"https://www.flaticon.com/free-icons/garage\" title=\"garage icons\">Garage icons created by Kiranshastry - Flaticon</a></p>",
+            "author": {
+                "name": "John O&#x27;Brien"
+            },
+            "tags": [
+                   "Attributions"
+            ],
+            "date_published": "2022-11-05T06:39:37-04:00",
+            "date_modified": "2022-11-05T06:39:56-04:00"
+        },
+        {
             "id": "https://johnobrien.github.io/johnobrien/hello-world.html",
             "url": "https://johnobrien.github.io/johnobrien/hello-world.html",
             "title": "Hello, World",
