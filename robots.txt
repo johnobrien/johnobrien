@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://johnobrien.github.io/johnobrien/sitemap.xml
+Sitemap: https://garageadventures.net/sitemap.xml

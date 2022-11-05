@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://johnobrien.github.io/johnobrien/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://garageadventures.net/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://johnobrien.github.io/johnobrien/</loc>
+<loc>https://garageadventures.net/</loc>
 </url>
 <url>
-<loc>https://johnobrien.github.io/johnobrien/attributions.html</loc>
+<loc>https://garageadventures.net/attributions.html</loc>
 <lastmod>2022-11-05T06:39:56-04:00</lastmod>
 </url>
 <url>
-<loc>https://johnobrien.github.io/johnobrien/hello-world.html</loc>
+<loc>https://garageadventures.net/hello-world.html</loc>
 <lastmod>2022-11-04T20:48:07-04:00</lastmod>
 </url>
 </urlset>

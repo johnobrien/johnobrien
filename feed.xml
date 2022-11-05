@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Garage Adventures</title>
-    <link href="https://johnobrien.github.io/johnobrien/feed.xml" rel="self" />
-    <link href="https://johnobrien.github.io/johnobrien" />
+    <link href="https://garageadventures.net/feed.xml" rel="self" />
+    <link href="https://garageadventures.net" />
     <updated>2022-11-05T06:39:56-04:00</updated>
     <author>
         <name>John O&#x27;Brien</name>
     </author>
-    <id>https://johnobrien.github.io/johnobrien</id>
+    <id>https://garageadventures.net</id>
 
     <entry>
         <title>Attributions</title>
         <author>
             <name>John O&#x27;Brien</name>
         </author>
-        <link href="https://johnobrien.github.io/johnobrien/attributions.html"/>
-        <id>https://johnobrien.github.io/johnobrien/attributions.html</id>
+        <link href="https://garageadventures.net/attributions.html"/>
+        <id>https://garageadventures.net/attributions.html</id>
             <category term="Attributions"/>
 
         <updated>2022-11-05T06:39:56-04:00</updated>
@@ -36,8 +36,8 @@
         <author>
             <name>John O&#x27;Brien</name>
         </author>
-        <link href="https://johnobrien.github.io/johnobrien/hello-world.html"/>
-        <id>https://johnobrien.github.io/johnobrien/hello-world.html</id>
+        <link href="https://garageadventures.net/hello-world.html"/>
+        <id>https://garageadventures.net/hello-world.html</id>
 
         <updated>2022-11-04T20:48:07-04:00</updated>
             <summary>
