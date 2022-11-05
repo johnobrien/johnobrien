@@ -3,7 +3,7 @@
     <title>Garage Adventures</title>
     <link href="https://www.garageadventures.net/feed.xml" rel="self" />
     <link href="https://www.garageadventures.net" />
-    <updated>2022-11-05T06:39:56-04:00</updated>
+    <updated>2022-11-05T09:38:28-04:00</updated>
     <author>
         <name>John O&#x27;Brien</name>
     </author>
@@ -39,15 +39,74 @@
         <link href="https://www.garageadventures.net/hello-world.html"/>
         <id>https://www.garageadventures.net/hello-world.html</id>
 
-        <updated>2022-11-04T20:48:07-04:00</updated>
+        <updated>2022-11-05T09:38:28-04:00</updated>
             <summary>
                 <![CDATA[
-                    This is a test.
+                    This is a test. Game R5 3600 R5 7600X Source URL i5-12600KF Source URL i5-13600KF Starcraft 2 120 200 https://www.youtube.com/watch?v=DGk4m_RbY8Y&amp;ab_channel=GamingBenchmark ? ? 142 Cyberpunk 2077 74 75 https://www.youtube.com/watch?v=2OeFYn1g4XE&amp;ab_channel=Emorindom) 92 https://www.youtube.com/watch?v=44L6PoIDFmI&amp;ab_channel=TestingGames 78 Elden Ring 57 60 https://www.youtube.com/watch?v=k_b-mzO3ABM&amp;ab_channel=UltronHD) 100 https://www.youtube.com/watch?v=3z5sEBb2KnI&amp;ab_channel=JegsTV 60 Overwatch 2 140 275 https://www.youtube.com/watch?v=6DjeTLhkAS0&amp;ab_channel=JegsTV) 200&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>This is a test.</p>
+<p> </p>
+<table width="1489">
+<tbody>
+<tr>
+<td width="86">Game</td>
+<td width="86">R5 3600</td>
+<td width="86">R5 7600X</td>
+<td width="546">Source URL</td>
+<td width="92">i5-12600KF</td>
+<td width="507">Source URL</td>
+<td width="86">i5-13600KF</td>
+</tr>
+<tr>
+<td>Starcraft 2</td>
+<td>120</td>
+<td>200</td>
+<td>https://www.youtube.com/watch?v=DGk4m_RbY8Y&amp;ab_channel=GamingBenchmark</td>
+<td>?</td>
+<td>?</td>
+<td>142</td>
+</tr>
+<tr>
+<td>Cyberpunk 2077</td>
+<td>74</td>
+<td>75</td>
+<td>https://www.youtube.com/watch?v=2OeFYn1g4XE&amp;ab_channel=Emorindom)</td>
+<td>92</td>
+<td>https://www.youtube.com/watch?v=44L6PoIDFmI&amp;ab_channel=TestingGames</td>
+<td>78</td>
+</tr>
+<tr>
+<td>Elden Ring</td>
+<td>57</td>
+<td>60</td>
+<td>https://www.youtube.com/watch?v=k_b-mzO3ABM&amp;ab_channel=UltronHD)</td>
+<td>100</td>
+<td>https://www.youtube.com/watch?v=3z5sEBb2KnI&amp;ab_channel=JegsTV</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Overwatch 2</td>
+<td>140</td>
+<td>275</td>
+<td>https://www.youtube.com/watch?v=6DjeTLhkAS0&amp;ab_channel=JegsTV)</td>
+<td>200</td>
+<td>https://www.youtube.com/watch?v=TYK6QHKUa8w&amp;ab_channel=JegsTV</td>
+<td>144</td>
+</tr>
+<tr>
+<td>Control</td>
+<td>139</td>
+<td>100</td>
+<td>https://www.youtube.com/watch?v=8cgDxuP3DEM&amp;ab_channel=TechChannelD)</td>
+<td>?</td>
+<td>?</td>
+<td>142</td>
+</tr>
+</tbody>
+</table>
             ]]>
         </content>
     </entry>
