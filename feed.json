@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Garage Adventures",
     "description": "",
-    "home_page_url": "https://garageadventures.net",
-    "feed_url": "https://garageadventures.net/feed.json",
+    "home_page_url": "https://www.garageadventures.net",
+    "feed_url": "https://www.garageadventures.net/feed.json",
     "user_comment": "",
     "author": {
         "name": "John O&#x27;Brien"
     },
     "items": [
         {
-            "id": "https://garageadventures.net/attributions.html",
-            "url": "https://garageadventures.net/attributions.html",
+            "id": "https://www.garageadventures.net/attributions.html",
+            "url": "https://www.garageadventures.net/attributions.html",
             "title": "Attributions",
             "summary": "Attributions Garage icons created by Kiranshastry - Flaticon",
             "content_html": "<h1>Attributions</h1>\n<p><a href=\"https://www.flaticon.com/free-icons/garage\" title=\"garage icons\">Garage icons created by Kiranshastry - Flaticon</a></p>",
@@ -25,8 +25,8 @@
             "date_modified": "2022-11-05T06:39:56-04:00"
         },
         {
-            "id": "https://garageadventures.net/hello-world.html",
-            "url": "https://garageadventures.net/hello-world.html",
+            "id": "https://www.garageadventures.net/hello-world.html",
+            "url": "https://www.garageadventures.net/hello-world.html",
             "title": "Hello, World",
             "summary": "This is a test.",
             "content_html": "<p>This is a test.</p>",
