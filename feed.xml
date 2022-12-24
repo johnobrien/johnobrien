@@ -3,34 +3,12 @@
     <title>Garage Adventures</title>
     <link href="https://garageadventures.net/feed.xml" rel="self" />
     <link href="https://garageadventures.net" />
-    <updated>2022-12-24T15:33:10-05:00</updated>
+    <updated>2022-12-24T20:48:00-05:00</updated>
     <author>
         <name>John O&#x27;Brien</name>
     </author>
     <id>https://garageadventures.net</id>
 
-    <entry>
-        <title>Attributions</title>
-        <author>
-            <name>John O&#x27;Brien</name>
-        </author>
-        <link href="https://garageadventures.net/attributions.html"/>
-        <id>https://garageadventures.net/attributions.html</id>
-            <category term="Attributions"/>
-
-        <updated>2022-12-24T15:33:10-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Attributions Garage icons created by Kiranshastry - Flaticon
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h1>Attributions</h1>
-<p><a href="https://www.flaticon.com/free-icons/garage" title="garage icons">Garage icons created by Kiranshastry - Flaticon</a></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Building a Gaming PC around the RTX 3070: An Update and Upgrades</title>
         <author>
@@ -39,7 +17,7 @@
         <link href="https://garageadventures.net/hello-world.html"/>
         <id>https://garageadventures.net/hello-world.html</id>
 
-        <updated>2022-12-24T15:33:03-05:00</updated>
+        <updated>2022-12-24T20:48:00-05:00</updated>
             <summary>
                 <![CDATA[
                     It has been two years since I first built my gaming PC. What do I think of it now? And, what upgrades have I made in the interim? Back in the height of the pandemic I built a gaming PC. It turns out I was&hellip;
@@ -59,8 +37,8 @@
 <p class="graf graf--p">Since I was already looking at upgrades, I went back to <a href="https://www.userbenchmark.com/" data-href="https://www.userbenchmark.com/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">userbenchmark.com</a>, which I found very useful in 2020, to see whether I should upgrade the CPU as I replace the motherboard. While the Ryzen 5 3600 has been perfectly fine, I was concerned that the performance of the GPU was being held-back or bottlenecked by the relatively slow CPU.</p>
 <p class="graf graf--p">It looked like the new sexy AMD processor in my price range is the Ryzen 5 7600X, so I wanted to read a review on userbenchmark to see how much faster it would be than the 3600.</p>
 <p>On September 25th, 2022, the description on Userbenchmark.com of the upcoming AMD Ryzen 5 7600X chip, which achieved a 107% CPU bench, read as follows:</p>
-<blockquote class="graf graf--blockquote">Within minutes of this unrealistic, pre-release, result appearing on userbenchmark, AMD’s marketing machinery declared a 20% victory over the 12900K whilst simultaneously slandering userbenchmark via hundreds of “news” outlets and thousands of supposedly disinterested twitter, reddit, forum and youtube accounts. Buying new AMD products is like buying used cars: it takes time, experience and a taste for sales hype. It’s difficult for consumers to make rational choices because AMD completely dominates “news” and social media channels. Ten years ago, when AMD was the underdog, this type of marketing was understandable. Today, with a capitalization of $150 Billion USD, it’s disrespectful to AMD’s own users. <a href="https://cpu.userbenchmark.com/Faq/AMD-vs-Intel--Gaming-performance-2012-2021/116#amdoutsold" data-href="https://cpu.userbenchmark.com/Faq/AMD-vs-Intel--Gaming-performance-2012-2021/116#amdoutsold" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank">Even with Intel’s marketing department permanently asleep at the wheel,</a> if these practices continue, Ryzen may eventually end up in the same state as Radeon. Following a series of <a href="https://cpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045" data-href="https://cpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank">overhyped releases,</a> consumers have little interest in the Radeon brand. The combined market share for all AMD’s (discrete) Radeon RX 5000 and 6000 GPUs (Jun ’22 Steam stats) is just 2%. Meanwhile, Nvidia’s RTX 2060 alone accounts for 5%. If Zen 4 actually delivers <a href="https://cpu.userbenchmark.com/Compare/AMD-Ryzen-5-5600X-vs-AMD-Advanced-Marketing-Devices-7600X/4084vsm1898605" data-href="https://cpu.userbenchmark.com/Compare/AMD-Ryzen-5-5600X-vs-AMD-Advanced-Marketing-Devices-7600X/4084vsm1898605" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank">anywhere near a 57% real-world single core uplift,</a> we will bow down, call AMD king, and commit seppuku! AMD’s new architecture is, once again, optimized to shine in specific benchmarks. Realistically, even if Zen 4 only catches Intel’s 12th gen. (Alder Lake) in a handful of real-world scenarios, it will be a big step forward for AMD. A few weeks after Zen 4 (est. Sep 27), Intel’s 13th gen. (Raptor Lake) is scheduled to launch. Smart shoppers will do well to wait until then, before considering a purchase. Despite AMD’s Neanderthal marketing techniques, it’s hard not to admire the speed of their technical progress. AMD-Raptor-4 and Intel-Zen-13 would be better fitting product names. [<em class="markup--em markup--blockquote-em">Jul ’22 </em><a href="https://www.userbenchmark.com/CPUPro/User?id=8" data-href="https://www.userbenchmark.com/CPUPro/User?id=8" class="markup--anchor markup--blockquote-anchor" title="Author's profile" rel="noopener" target="_blank"><em class="markup--em markup--blockquote-em">CPUPro</em></a>]</blockquote>
-<p class="graf graf--p">This struck me as some strong commentary for a description of a computer chip, so I did some digging. </p>
+<p>"Within minutes of this unrealistic, pre-release, result appearing on userbenchmark, AMD’s marketing machinery declared a 20% victory over the 12900K whilst simultaneously slandering userbenchmark via hundreds of “news” outlets and thousands of supposedly disinterested twitter, reddit, forum and youtube accounts. Buying new AMD products is like buying used cars: it takes time, experience and a taste for sales hype. It’s difficult for consumers to make rational choices because AMD completely dominates “news” and social media channels. Ten years ago, when AMD was the underdog, this type of marketing was understandable. Today, with a capitalization of $150 Billion USD, it’s disrespectful to AMD’s own users. <a href="https://cpu.userbenchmark.com/Faq/AMD-vs-Intel--Gaming-performance-2012-2021/116#amdoutsold" data-href="https://cpu.userbenchmark.com/Faq/AMD-vs-Intel--Gaming-performance-2012-2021/116#amdoutsold" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank">Even with Intel’s marketing department permanently asleep at the wheel,</a> if these practices continue, Ryzen may eventually end up in the same state as Radeon. Following a series of <a href="https://cpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045" data-href="https://cpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank">overhyped releases,</a> consumers have little interest in the Radeon brand. The combined market share for all AMD’s (discrete) Radeon RX 5000 and 6000 GPUs (Jun ’22 Steam stats) is just 2%. Meanwhile, Nvidia’s RTX 2060 alone accounts for 5%. If Zen 4 actually delivers <a href="https://cpu.userbenchmark.com/Compare/AMD-Ryzen-5-5600X-vs-AMD-Advanced-Marketing-Devices-7600X/4084vsm1898605" data-href="https://cpu.userbenchmark.com/Compare/AMD-Ryzen-5-5600X-vs-AMD-Advanced-Marketing-Devices-7600X/4084vsm1898605" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank">anywhere near a 57% real-world single core uplift,</a> we will bow down, call AMD king, and commit seppuku! AMD’s new architecture is, once again, optimized to shine in specific benchmarks. Realistically, even if Zen 4 only catches Intel’s 12th gen. (Alder Lake) in a handful of real-world scenarios, it will be a big step forward for AMD. A few weeks after Zen 4 (est. Sep 27), Intel’s 13th gen. (Raptor Lake) is scheduled to launch. Smart shoppers will do well to wait until then, before considering a purchase. Despite AMD’s Neanderthal marketing techniques, it’s hard not to admire the speed of their technical progress. AMD-Raptor-4 and Intel-Zen-13 would be better fitting product names. [<em class="markup--em markup--blockquote-em">Jul ’22 </em><a href="https://www.userbenchmark.com/CPUPro/User?id=8" data-href="https://www.userbenchmark.com/CPUPro/User?id=8" class="markup--anchor markup--blockquote-anchor" title="Author's profile" rel="noopener" target="_blank"><em class="markup--em markup--blockquote-em">CPUPro</em></a>]"</p>
+<p>This struck me as some strong commentary for a description of a computer chip, so I did some digging. </p>
 <p class="graf graf--p">It turns out that userbenchmark.com is quite controversial. There are <a href="https://www.reddit.com/r/AyyMD/comments/nozmfw/cpupro_more_like_cpuno/" data-href="https://www.reddit.com/r/AyyMD/comments/nozmfw/cpupro_more_like_cpuno/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">several</a> <a href="https://ownsnap.com/userbenchmark-biased-admin/" data-href="https://ownsnap.com/userbenchmark-biased-admin/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">posts</a> which disparage the site. This put me in something of a predicament; I relied heavily on the userbenchmark.com site when I was doing my initial build, and needed to know whether I can continue to do so, so I looked into some of the criticisms of the site.</p>
 <p class="graf graf--p">A lot of the other criticisms of the site don’t make much sense to me. Some people seem offended by reviews like the one I quoted above. While the tone does seem a bit unprofessional, I personally don’t much care if CPUPro or anyone else wants to malign AMD (or Intel for that matter), so long as their data is accurate, consistent and replicable.</p>
 <p class="graf graf--p">Other people are upset that the site doesn’t take into account things like the video transcoding speed or the power usage of a CPU or framerates when gaming at 1440p, but I happen to be among the gamers who doesn’t care about any of that stuff.</p>
@@ -123,6 +101,28 @@
 </tbody>
 </table>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Attributions</title>
+        <author>
+            <name>John O&#x27;Brien</name>
+        </author>
+        <link href="https://garageadventures.net/attributions.html"/>
+        <id>https://garageadventures.net/attributions.html</id>
+            <category term="Attributions"/>
+
+        <updated>2022-12-24T15:33:10-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Attributions Garage icons created by Kiranshastry - Flaticon
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Attributions</h1>
+<p><a href="https://www.flaticon.com/free-icons/garage" title="garage icons">Garage icons created by Kiranshastry - Flaticon</a></p>
             ]]>
         </content>
     </entry>
