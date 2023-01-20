@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Garage Adventures</title>
-    <link href="https://johnobrien.github.io/johnobrien/feed.xml" rel="self" />
-    <link href="https://johnobrien.github.io/johnobrien" />
+    <link href="https://www.garageadventures.net/feed.xml" rel="self" />
+    <link href="https://www.garageadventures.net" />
     <updated>2022-12-24T20:48:00-05:00</updated>
     <author>
         <name>John O&#x27;Brien</name>
     </author>
-    <id>https://johnobrien.github.io/johnobrien</id>
+    <id>https://www.garageadventures.net</id>
 
     <entry>
         <title>Building a Gaming PC around the RTX 3070: An Update and Upgrades</title>
         <author>
             <name>John O&#x27;Brien</name>
         </author>
-        <link href="https://johnobrien.github.io/johnobrien/building-a-gaming-pc-around-the-rtx-3070-an-update-and-upgrades.html"/>
-        <id>https://johnobrien.github.io/johnobrien/building-a-gaming-pc-around-the-rtx-3070-an-update-and-upgrades.html</id>
+        <link href="https://www.garageadventures.net/building-a-gaming-pc-around-the-rtx-3070-an-update-and-upgrades.html"/>
+        <id>https://www.garageadventures.net/building-a-gaming-pc-around-the-rtx-3070-an-update-and-upgrades.html</id>
 
         <updated>2022-12-24T20:48:00-05:00</updated>
             <summary>
@@ -109,8 +109,8 @@
         <author>
             <name>John O&#x27;Brien</name>
         </author>
-        <link href="https://johnobrien.github.io/johnobrien/attributions.html"/>
-        <id>https://johnobrien.github.io/johnobrien/attributions.html</id>
+        <link href="https://www.garageadventures.net/attributions.html"/>
+        <id>https://www.garageadventures.net/attributions.html</id>
             <category term="Attributions"/>
 
         <updated>2022-12-24T15:33:10-05:00</updated>
