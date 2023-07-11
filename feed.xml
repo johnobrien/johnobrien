@@ -3,7 +3,7 @@
     <title>Garage Adventures</title>
     <link href="https://www.garageadventures.net/feed.xml" rel="self" />
     <link href="https://www.garageadventures.net" />
-    <updated>2023-07-10T22:24:15-04:00</updated>
+    <updated>2023-07-10T23:17:53-04:00</updated>
     <author>
         <name>John O&#x27;Brien</name>
     </author>
@@ -148,7 +148,7 @@
         </content>
     </entry>
     <entry>
-        <title>Attributions</title>
+        <title>Attributions &amp; Contact Information</title>
         <author>
             <name>John O&#x27;Brien</name>
         </author>
@@ -156,10 +156,10 @@
         <id>https://www.garageadventures.net/attributions/</id>
             <category term="Attributions"/>
 
-        <updated>2023-07-10T20:06:52-04:00</updated>
+        <updated>2023-07-10T23:17:53-04:00</updated>
             <summary>
                 <![CDATA[
-                    Attributions Garage icons created by Kiranshastry - Flaticon Robotics icons created by Freepik - Flaticon
+                    Attributions Garage icons created by Kiranshastry - Flaticon Robotics icons created by Freepik - Flaticon John O'Brien can be reached at john@garageadventures.net
                 ]]>
             </summary>
         <content type="html">
@@ -167,7 +167,8 @@
                 <h1>Attributions</h1>
 <p><a href="https://www.flaticon.com/free-icons/garage" title="garage icons">Garage icons created by Kiranshastry - Flaticon</a></p>
 <p><a href="https://www.flaticon.com/free-icons/robotics" title="robotics icons">Robotics icons created by Freepik - Flaticon</a></p>
-<p> </p>
+<h1>Contact Information</h1>
+<p>John O'Brien can be reached at <a href="mailto:john@garageadventures.net">john@garageadventures.net</a></p>
             ]]>
         </content>
     </entry>
