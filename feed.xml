@@ -3,7 +3,7 @@
     <title>Garage Adventures</title>
     <link href="https://www.garageadventures.net/feed.xml" rel="self" />
     <link href="https://www.garageadventures.net" />
-    <updated>2022-12-24T20:48:00-05:00</updated>
+    <updated>2023-07-10T20:06:52-04:00</updated>
     <author>
         <name>John O&#x27;Brien</name>
     </author>
@@ -113,16 +113,18 @@
         <id>https://www.garageadventures.net/attributions.html</id>
             <category term="Attributions"/>
 
-        <updated>2022-12-24T15:33:10-05:00</updated>
+        <updated>2023-07-10T20:06:52-04:00</updated>
             <summary>
                 <![CDATA[
-                    Attributions Garage icons created by Kiranshastry - Flaticon
+                    Attributions Garage icons created by Kiranshastry - Flaticon Robotics icons created by Freepik - Flaticon
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h1>Attributions</h1>
 <p><a href="https://www.flaticon.com/free-icons/garage" title="garage icons">Garage icons created by Kiranshastry - Flaticon</a></p>
+<p><a href="https://www.flaticon.com/free-icons/robotics" title="robotics icons">Robotics icons created by Freepik - Flaticon</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
