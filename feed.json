@@ -43,7 +43,7 @@
             "url": "https://www.garageadventures.net/attributions/",
             "title": "Attributions &amp; Contact Information",
             "summary": "Attributions Garage icons created by Kiranshastry - Flaticon Robotics icons created by Freepik - Flaticon John O'Brien can be reached at john@garageadventures.net",
-            "content_html": "<h1>Attributions</h1>\n<p><a href=\"https://www.flaticon.com/free-icons/garage\" title=\"garage icons\">Garage icons created by Kiranshastry - Flaticon</a></p>\n<p><a href=\"https://www.flaticon.com/free-icons/robotics\" title=\"robotics icons\">Robotics icons created by Freepik - Flaticon</a></p>\n<h1>Contact Information</h1>\n<p>John O'Brien can be reached at <a href=\"mailto:john@garageadventures.net\">john@garageadventures.net</a></p>",
+            "content_html": "<h2>Attributions</h2>\n<p><a href=\"https://www.flaticon.com/free-icons/garage\" title=\"garage icons\">Garage icons created by Kiranshastry - Flaticon</a></p>\n<p><a href=\"https://www.flaticon.com/free-icons/robotics\" title=\"robotics icons\">Robotics icons created by Freepik - Flaticon</a></p>\n<h2>Contact Information</h2>\n<p>John O'Brien can be reached at <a href=\"mailto:john@garageadventures.net\">john@garageadventures.net</a></p>",
             "author": {
                 "name": "John O&#x27;Brien"
             },
@@ -51,7 +51,7 @@
                    "Attributions"
             ],
             "date_published": "2022-11-05T06:39:37-04:00",
-            "date_modified": "2023-07-10T23:18:26-04:00"
+            "date_modified": "2023-07-10T23:20:01-04:00"
         }
     ]
 }
