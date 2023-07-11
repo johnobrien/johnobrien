@@ -7,4 +7,4 @@
 - 💬 Ask me about robots.
 - 📫 How to reach me: click your heels and say my name three times
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: a human head on average weights 8 pounds.
