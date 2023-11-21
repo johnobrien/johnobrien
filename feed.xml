@@ -3,12 +3,41 @@
     <title>Garage Adventures</title>
     <link href="https://www.garageadventures.net/feed.xml" rel="self" />
     <link href="https://www.garageadventures.net" />
-    <updated>2023-07-10T22:24:15-04:00</updated>
+    <updated>2023-11-21T14:11:11-05:00</updated>
     <author>
         <name>John O&#x27;Brien</name>
     </author>
     <id>https://www.garageadventures.net</id>
 
+    <entry>
+        <title>Connecting a Hermit Crab CAN Bus to the BIGTREETECH BTT Octopus Pro V1.0</title>
+        <author>
+            <name>John O&#x27;Brien</name>
+        </author>
+        <link href="https://www.garageadventures.net/connecting-a-hermit-crab-can-bus-to-the-bigtreetech-btt-octopus-pro-v10/"/>
+        <id>https://www.garageadventures.net/connecting-a-hermit-crab-can-bus-to-the-bigtreetech-btt-octopus-pro-v10/</id>
+
+        <updated>2023-11-21T14:11:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This article details the steps needed to connect a Hermit Crab CAN Bus to a BIGTREETECH BTT Octopus Pro V1.0 microcontroller unit. The documentation for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This article details the steps needed to connect<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> a Hermit Crab CAN Bus to a BIGTREETECH BTT Octopus Pro V1.0 microcontroller unit.</span></p>
+<p>The documentation for the Hermit Crab CAN Bus version has wiring diagram examples for directly connecting the Hermit Crab BTT HotMode to a raspberry pi via USB and to via a BTT CAN-Distribution board. It does not, however, have a wiring diagram or instructions for how to use the Octopus Pro as a USB to CAN Bus adapter.</p>
+<p>To create this guide I utilized the following sources:</p>
+<ul>
+<li><a href="https://cdck-file-uploads-canada1.s3.dualstack.ca-central-1.amazonaws.com/free1/uploads/klipper/original/2X/a/ad777531ba414299815e18b0f59a96ab4a0308ef.pdf">How to Use CAN Toolhead Boards Connected Directly to Octopus / Octopus Pro on CanBoot</a></li>
+<li><a class="heading-link" href="https://github.com/maz0r/klipper_canbus/blob/main/controller/monster8v2.md#mks-monster8-v2-as-a-can-to-usb-bridge-adapter">MKS Monster8 v2 as a Can to USB bridge adapter</a></li>
+<li><a href="https://github.com/bigtreetech/Manta-M8P/issues/30#issuecomment-1603874462">CanBus support for Manta-M8P comment thread on GitHub</a></li>
+</ul>
+<p>After the sources listed were published, CanBoot was renamed Katapult, so I will refer to CanBoot as Katapult throughout this article, as that is it's name as I am writing this guide.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A Method for Taking Notes During A Meeting</title>
         <author>
